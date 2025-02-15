@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/ea0af21c-05d1-4318-a334-19b8ce67f2f0
 - Django
 - Pillow
 - SQL
+- Canvas
 
 
 ## License
